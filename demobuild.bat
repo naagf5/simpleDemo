@@ -1,4 +1,4 @@
 echo "Build Is starting"
-echo "Calling build.bat"
-build.bat
+echo "Setting Environment and Installing Plugins"
+install_plugin.bat
 echo "Build Completed"
